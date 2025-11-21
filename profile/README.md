@@ -1,3 +1,3 @@
-<img width="3000" height="1000" alt="image" src="https://github.com/user-attachments/assets/c5d7c49a-9314-4bb1-9358-9eca32339a4a" />
+<img width="866" height="288" alt="UCC_Banner-removebg-preview" src="https://github.com/user-attachments/assets/4ac199a3-a18c-4fd6-aa34-f7b0655c0158" />
 
 LASU nace con una misión clara: posicionar a Latinoamérica como actor serio, riguroso y visionario en la ciencia y la tecnología aeroespacial. Nos presentamos como una comunidad de ingenieros, investigadores y científicos que combina el respeto por los métodos clásicos con la innovación de frontera, avanzando con disciplina, criterio y ambición estratégica. Desarrollamos investigación aplicada, teorías físicas emergentes, sistemas aeroespaciales y proyectos de alto impacto con una sola premisa: el conocimiento no se improvisa, se construye con precisión, constancia y visión a largo plazo.
