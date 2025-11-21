@@ -4,7 +4,7 @@
   "description": "A sample package.json",
   "dependencies": {
     "@primer/css": "17.0.1",
-    "astro": "^5.1.7"
+    "astro": "^5.16.0"
   },
   "license": "MIT",
   "main": "index.js",
