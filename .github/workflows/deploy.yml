@@ -16,11 +16,11 @@ jobs:
           node-version: 18
 
       - name: Install dependencies
-        working-directory: Webhost
         run: npm install
+        working-directory: webhost
 
       - name: Build Astro
-        working-directory: Webhost
+        working-directory: webhost
         run: npm run build
 
       - name: Disable Jekyll
