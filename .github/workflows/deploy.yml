@@ -16,22 +16,22 @@ jobs:
           node-version: 18
 
       - name: Install dependencies
-        working-directory: Webhost
+        working-directory: webhost
         run: npm install
 
       - name: Build Astro
-        working-directory: Webhost
+        working-directory: webhost
         run: npm run build
 
       - name: Disable Jekyll
-        run: echo "" > Webhost/dist/.nojekyll
+        run: echo "" > webhost/dist/.nojekyll
 
       - name: List dist content
-        run: ls -R Webhost/dist
+        run: ls -R webhost/dist
 
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: Webhost/dist
+          publish_dir: webhost/dist
