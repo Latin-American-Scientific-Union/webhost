@@ -26,6 +26,10 @@ jobs:
       - name: Disable Jekyll
         run: echo "" > Webhost/dist/.nojekyll
 
+      - name: List dist content
+        run: ls -R Webhost/dist
+
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
